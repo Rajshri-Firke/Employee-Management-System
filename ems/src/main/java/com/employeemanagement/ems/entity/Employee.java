@@ -42,6 +42,15 @@ public class Employee {
 		this.lastname = lastname;
 		this.email = email;
 	}
+	
+	
+
+	public Employee() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+
 
 	public long getId() {
 		return id;
